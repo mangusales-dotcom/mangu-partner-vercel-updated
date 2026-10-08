@@ -1,0 +1,1 @@
+# mangu-partner-vercel-updated
